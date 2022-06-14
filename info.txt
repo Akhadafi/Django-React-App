@@ -1,0 +1,21 @@
+Django
+  -py -m venv env
+  -python -m pip install -r requirements.txt
+  -django admin startprojects backend
+  -cd backend
+  -python magae.py runserver
+  -python magae.py startapp api
+
+Django Lib
+  -pip install Django
+  -pip install djangorestframework
+  -pip install django-cors-headers
+
+React Step
+  -npx create-react-app frontend
+  -cd frontend
+  -npm start
+
+React Lib
+  -npm install reactstrap bootstrap
+  -npm install axios

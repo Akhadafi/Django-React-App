@@ -12,7 +12,7 @@ body {
   text-decoration: line-through;
 }
 
-.tab-list > .tab-list-item > span{
+.tab-list > span{
   padding: 5px 8px;
   border: 1px solid rgb(13, 159, 204);
   border-radius: 10px;
@@ -20,7 +20,7 @@ body {
   cursor: pointer;
 }
 
-.tab-list > .tab-list-item > span.active{
+.tab-list > span.active{
   background-color: rgb(13, 159, 204);
   color: white;
 }
